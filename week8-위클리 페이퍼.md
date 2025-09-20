@@ -24,7 +24,7 @@
 
 - `useEffect` Hook을 사용해서 생명주기를 컨트롤
 
-```jsx
+
 useEffect(() => {
   // mount 시 실행 (API 호출 등)
   return () => {
