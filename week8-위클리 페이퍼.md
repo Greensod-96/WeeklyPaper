@@ -20,7 +20,7 @@
 
 ---
 
-### 함수형 컴포넌트 기준 (Hooks 사용)
+## 함수형 컴포넌트 기준 (Hooks 사용)
 
 - `useEffect` Hook을 사용해서 생명주기를 컨트롤
 
@@ -36,7 +36,7 @@ useEffect(() => {
   // state/props 변경 시 실행
 }, [의존성]);
 
-# 웹 페이지 렌더링 방식
+## 웹 페이지 렌더링 방식
 
 ## 🔹 CSR (Client-Side Rendering)
 
